@@ -26,7 +26,7 @@ function Maintenance() {
             <Image src={logo} alt="Tools Icon" width={100} height={100} className="mr-2 h-14 w-14" />
             <h1 className="text-6xl font-bold text-purple-800">Maintenance</h1>
           </div>
-          <p className="text-lg mt-4 text-black">Sorry, we're currently undergoing maintenance. Please check back later.</p>
+          <p className="text-lg mt-4 text-black">Sorry, we &apos; re currently undergoing maintenance. Please check back later.</p>
         </div>
       </div>
     </>
